@@ -3,14 +3,14 @@
  <h1 align="center">Profile</h1>
 </p>
 
-### Hello There 👋 This is **flingo777**
+<h3 align="center" Hello There 👋 This is **flingo777**</h3>
 
 <div>
- <p>
-  I'm programming since a year and stil learning basics.
+ 
+  <h3 align="center">I'm programming since a year and stil learning basics.</h3>
   
-  I'm good at web developing.
-</p>
+ <h3 align="center">I'm good at web developing.</h3>
+
 </div>
 
 ### Programming Languages I Know 🌐
