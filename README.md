@@ -5,13 +5,13 @@
 
 <h3 align="center" Hello There 👋 This is **flingo777**</h3>
 
-<div>
- 
-  <h3 align="center">I'm programming since a year and stil learning basics.</h3>
-  
- <h3 align="center">I'm good at web developing.</h3>
 
-</div>
+ 
+  <h4 align="center">I'm programming since a year and stil learning basics.</h4>
+  
+ <h4 align="center">I'm good at web developing.</h4>
+
+
 
 ### Programming Languages I Know 🌐
 
