@@ -3,4 +3,12 @@
  <h1 align="center">Profile</h1>
 </p>
 
-<center >### Hello There 👋 This is **flingo777** </center>
+### Hello There 👋 This is **flingo777**
+
+<div>
+ <p>
+  I'm programming since a year and stil learning basics.
+  
+  I'm good at web developing.
+</p>
+</div>
