@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **flingo_777@proton.me**
+- 📫 How to reach me **flingo777@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
