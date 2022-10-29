@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [AnimeCube](https://charming-bat-cuff.cyclic.app/)
 
-- 🌱 I’m currently learning **WebDev, Artificial intelligence, Blockchain**
+- 🌱 I’m currently learning **WebDev, Artificial intelligence**
 
 - 👨‍💻 All of my projects are available at [github.com/flingo777](github.com/flingo777)
 
