@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flingo777" alt="flingo777" /></a> </p>
 
-- 🔭 I’m currently working on [AnimeCube](https://charming-bat-cuff.cyclic.app/)
+- 🔭 I’m currently working on **Something Special**
 
 - 🌱 I’m currently learning **WebDev, Artificial intelligence**
 
