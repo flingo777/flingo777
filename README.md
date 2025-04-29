@@ -27,4 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=flingo777&show_icons=true&locale=en&theme=tokyonight" alt="flingo777" /></p>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/867603695641165856)](https://discord.com/users/867603695641165856)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=flingo777&theme=tokyonight" alt="flingo777" /></p>
