@@ -3,7 +3,7 @@
 
 # flingo777
 
-<sub>frontend developer · CachyOS · VS Code</sub>
+<sub>frontend developer</sub>
 
 <br/><br/>
 
@@ -37,7 +37,6 @@ whoami:
   handle:       flingo777
   role:         Frontend Developer 
   focus:        building clean interfaces, breaking Linux setups on purpose
-  philosophy:   "if the terminal isn't themed, is it even done?"
   currently:    learning cs core
   based_in:     India 
 ```
@@ -213,30 +212,11 @@ Manga, usually whatever the anime adaptation made me curious about
 ---
 
 
-<!--
-  Discord shows as a live status card (Lanyard). This requires the account to have
-  joined the Lanyard support server at least once — see docs/SETUP_GUIDE.md.
--->
+
 <img src="https://discord.c99.nl/widget/theme-3/867603695641165856.png" alt="Discord presence card" />
 
 </div>
 
----
-
-## Contact
-
-```bash
-~ ❯ contact --preferred email
-> flingo_07@proton.me
-
-~ ❯ contact --social x
-> @zenshi07
-
-~ ❯ contact --social discord
-> live status above — reach out on X or email to connect directly
-```
-
----
 
 <div align="center">
 <sub>➜ ~thanks for stopping by</sub>
