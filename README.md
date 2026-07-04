@@ -89,7 +89,7 @@ React, Linux, or your anime backlog
 ### Development Environment
 
 ```bash
-~ ❯ neofetch --minimal
+~ ❯ fastfetch
 --------------------------------
 OS:        CachyOS 
 WM:        Niri
