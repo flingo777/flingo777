@@ -3,7 +3,7 @@
 
 # flingo777
 
-<sub>frontend developer</sub>
+<sub>I'm **flingo777** an avid tech enthusiast, been working on frontend projects over couple of years, now moving the focus to something new</sub>
 
 <br/><br/>
 
@@ -41,7 +41,7 @@ whoami:
   based_in:     India 
 ```
 
-I'm **flingo777** — an avid tech enthusiast, been working on frontend projects over couple of years, now moving the focus to something new
+
 ---
 
 ## Current Focus
