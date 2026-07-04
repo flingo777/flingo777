@@ -3,7 +3,7 @@
 
 # flingo777
 
-<sub>I'm **flingo777** an avid tech enthusiast, been working on frontend projects over couple of years, now moving the focus to something new</sub>
+<h3>I'm Flingo a computer science student and a tech enthusiast, been working on frontend projects over couple of years, now moving the focus to something new</h3>
 
 <br/><br/>
 
