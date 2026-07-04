@@ -22,7 +22,7 @@
 <a href="https://x.com/zenshi07">
   <img src="https://img.shields.io/badge/-@zenshi07-1a1b26?style=for-the-badge&logo=x&logoColor=c0caf5&labelColor=16161e" />
 </a>
-<a href="#-contact">
+<a href="https://discord.gg/FAuvbMPNrA">
   <img src="https://img.shields.io/badge/-open%20to%20connect-1a1b26?style=for-the-badge&logo=discord&logoColor=bb9af7&labelColor=16161e" />
 </a>
 
