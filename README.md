@@ -245,15 +245,11 @@ Terminal:  kitty
 </p>
 
 
-<details>
-<summary><b>⌛ WakaTime · Coding Schedule · Most Productive Day</b></summary>
-<br/>
+# 📊 Coding Stats
 
-```md
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-```
 
 
 
