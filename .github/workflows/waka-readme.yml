@@ -1,0 +1,32 @@
+# DISABLED BY DEFAULT — no WakaTime account is connected yet.
+#
+# To enable:
+#   1. Create a free account at https://wakatime.com and install the
+#      Neovim + VS Code plugins so time actually gets tracked.
+#   2. Add your WakaTime API key as a repo secret named WAKATIME_API_KEY.
+#   3. Uncomment the `on:` triggers below.
+#   4. Uncomment the WakaTime image block in README.md
+#      (Developer Insights Dashboard > WakaTime section).
+#
+# on:
+#   schedule:
+#     - cron: "0 0 * * *"
+#   workflow_dispatch: {}
+
+name: waka-readme (disabled)
+
+on:
+  workflow_dispatch: {}   # manual-only until enabled above
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_TITLE: true
