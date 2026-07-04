@@ -250,8 +250,8 @@ Terminal:  kitty
 <br/>
 
 ```md
-Uncomment once WAKATIME_API_KEY is configured:
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flingo777&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ```
 
